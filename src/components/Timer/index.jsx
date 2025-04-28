@@ -47,7 +47,11 @@ const Timer = () => {
 	}, [])
 	return (
 		<div className='timer-container'>
-			<img className='gradient-mesh-img' src='/GradientMesh_Light.png' alt='' />
+			<img
+				className='gradient-mesh-img'
+				src='https://i.ibb.co/WNffXXjw/Gradient-Mesh-Light.png'
+				alt=''
+			/>
 			<h2>METAPASS</h2>
 			<h1>
 				<b>COMING SOON</b>
